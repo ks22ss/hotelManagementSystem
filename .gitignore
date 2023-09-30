@@ -1,0 +1,24 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+target/
+bin/
+out/
+
+# Gradle
+.gradle/
+build/
+.gradle/
+.idea/
+build.gradle
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+
+# Git
+.gitignore
+.git/
+.gitattributes
+.gitkeep
